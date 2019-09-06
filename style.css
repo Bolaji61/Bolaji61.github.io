@@ -1,0 +1,20 @@
+.body {
+    /* color: blue; */
+    background-color: lightblue;
+}
+
+.main {
+    text-align: center;
+}
+.section {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#img {
+    padding-left: 15%;
+    margin-left: 5%;
+}
+.contact {
+    text-align: center;
+}
